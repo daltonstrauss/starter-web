@@ -2,6 +2,11 @@
 
 This is GIT Project, wich we are using as Sample Project
 
+## Introduction
+A lot of Lectures are already submmitedd.
+And a lot of lectures are still comming on.
+
+
 ## Purpose
 A lot of lectures are already submmited
 
