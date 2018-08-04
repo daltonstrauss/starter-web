@@ -7,7 +7,8 @@ A lot of lectures are already submmited
 
 ## GIT & GITHub Training
 This is the DevOps training.
-Adding GIT Rebase Lectures in GIT
+Adding GIT Rebase Lectures in GIT.
+We have done so much work together.
 
 ## GIT Comparisons
 Adding GIT Comparisons Lecture
