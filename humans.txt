@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Dalton Strauss <twitter>
+    Dalton Strauss
+	daltonstrauss@gmail.com
+	DevOps Engineer
 
 # THANKS
 
