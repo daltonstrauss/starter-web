@@ -22,3 +22,4 @@ Adding important notes in git stash.
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
 	Machine Learning, AWS, Google Cloud
+	AWS Solution Archtect 
