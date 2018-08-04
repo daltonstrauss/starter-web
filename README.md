@@ -23,3 +23,4 @@ Fork the Repor and raise pull request for you
 
 ## GITHub Content
 Comparison with Repo
+Adding new Lectures of Stash.
