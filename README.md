@@ -11,5 +11,8 @@ This is the DevOps training
 ## GIT Comparisons
 Adding GIT Comparisons Lecture
 
+## Contribution
+Fork the Repor and raise pull request for you
+
 ## GITHub Content
 Comparison with Repo
